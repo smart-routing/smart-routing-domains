@@ -1,0 +1,233 @@
+{
+  "source": "https://github.com/v2fly/domain-list-community",
+  "services": [
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "category": "AI",
+      "icon": "chatgpt",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "openai"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "category": "AI",
+      "icon": "gemini",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "google-gemini"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "category": "AI",
+      "icon": "claude",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "anthropic"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "category": "AI",
+      "icon": "perplexity",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "perplexity"
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "category": "AI",
+      "icon": "grok",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "xai"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "category": "AI",
+      "icon": "deepseek",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "deepseek"
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "category": "Общение",
+      "icon": "discord",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "discord"
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "category": "Общение",
+      "icon": "telegram",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "telegram"
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "category": "Общение",
+      "icon": "whatsapp",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "whatsapp"
+    },
+    {
+      "id": "signal",
+      "name": "Signal",
+      "category": "Общение",
+      "icon": "signal",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "signal"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "category": "Видео и медиа",
+      "icon": "youtube",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "youtube"
+    },
+    {
+      "id": "twitch",
+      "name": "Twitch",
+      "category": "Видео и медиа",
+      "icon": "twitch",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "twitch"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "category": "Видео и медиа",
+      "icon": "tiktok",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "tiktok"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "category": "Видео и медиа",
+      "icon": "instagram",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "instagram"
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "category": "Видео и медиа",
+      "icon": "spotify",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "spotify"
+    },
+    {
+      "id": "twitter",
+      "name": "X (Twitter)",
+      "category": "Другие",
+      "icon": "twitter",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "twitter"
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "category": "Другие",
+      "icon": "reddit",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "reddit"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "category": "Другие",
+      "icon": "github",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "github"
+    },
+    {
+      "id": "steam",
+      "name": "Steam",
+      "category": "Другие",
+      "icon": "steam",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
+      "sourceList": "steam"
+    }
+  ]
+}

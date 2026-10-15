@@ -7,6 +7,11 @@
       "name": "ChatGPT",
       "category": "AI",
       "icon": "chatgpt",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "chat.com",
         "chatgpt.com",
@@ -33,12 +38,7 @@
         "openaicomproductionae4b.blob.core.windows.net",
         "production-openaicom-storage.azureedge.net"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/openai",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 1
     },
     {
@@ -46,6 +46,11 @@
       "name": "Gemini",
       "category": "AI",
       "icon": "gemini",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "ai.studio",
         "aicode.googleapis.com",
@@ -96,12 +101,7 @@
         "notebooklm.googleapis.com",
         "webchannel-alkalimakersuite-pa.clients6.google.com"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/google-gemini",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -109,6 +109,11 @@
       "name": "Claude",
       "category": "AI",
       "icon": "claude",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "anthropic.com",
         "clau.de",
@@ -122,12 +127,7 @@
       "exactDomains": [
         "servd-anthropic-website.b-cdn.net"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/anthropic",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -135,6 +135,11 @@
       "name": "Perplexity",
       "category": "AI",
       "icon": "perplexity",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "perplexity.ai",
         "perplexity.com",
@@ -144,12 +149,7 @@
         "ppl-ai-file-upload.s3.amazonaws.com",
         "pplx-res.cloudinary.com"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/perplexity",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -157,6 +157,11 @@
       "name": "Grok",
       "category": "AI",
       "icon": "grok",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "grok.com",
         "grok.x.com",
@@ -164,12 +169,7 @@
         "x.ai"
       ],
       "exactDomains": [],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/xai",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -177,17 +177,17 @@
       "name": "DeepSeek",
       "category": "AI",
       "icon": "deepseek",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "deepseek.com",
         "deepseeksvc.com"
       ],
       "exactDomains": [],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/deepseek",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -195,6 +195,11 @@
       "name": "Discord",
       "category": "Общение",
       "icon": "discord",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "airhorn.solutions",
         "airhornbot.com",
@@ -227,12 +232,7 @@
         "discord-attachments-uploads-prd.storage.googleapis.com",
         "hammerandchisel.ssl.zendesk.com"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/discord",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -240,6 +240,11 @@
       "name": "Telegram",
       "category": "Общение",
       "icon": "telegram",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "cdn-telegram.org",
         "comments.app",
@@ -264,12 +269,7 @@
         "usercontent.dev"
       ],
       "exactDomains": [],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/telegram",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -277,6 +277,11 @@
       "name": "WhatsApp",
       "category": "Общение",
       "icon": "whatsapp",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "graph.whatsapp.com",
         "graph.whatsapp.net",
@@ -293,12 +298,7 @@
         "whatsappbrand.com"
       ],
       "exactDomains": [],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/whatsapp",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -306,6 +306,11 @@
       "name": "Signal",
       "category": "Общение",
       "icon": "signal",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "signal.art",
         "signal.group",
@@ -317,12 +322,7 @@
         "whispersystems.org"
       ],
       "exactDomains": [],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/signal",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -330,6 +330,11 @@
       "name": "YouTube",
       "category": "Видео и медиа",
       "icon": "youtube",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "ads.youtube.com",
         "ggpht.cn",
@@ -338,6 +343,7 @@
         "wide-youtube.l.google.com",
         "withyoutube.com",
         "youtu.be",
+        "youtube",
         "youtube-nocookie.com",
         "youtube-ui.l.google.com",
         "youtube.ae",
@@ -511,19 +517,19 @@
       "exactDomains": [
         "yt3.googleusercontent.com"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/youtube",
-      "verifiedAt": "2026-10-08",
-      "omittedRules": 1
+      "omittedRules": 0
     },
     {
       "id": "twitch",
       "name": "Twitch",
       "category": "Видео и медиа",
       "icon": "twitch",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "ext-twitch.tv",
         "jtvnw.net",
@@ -562,12 +568,7 @@
         "ds0h3roq6wcgc.cloudfront.net",
         "dykkng5hnh52u.cloudfront.net"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/twitch",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -575,6 +576,11 @@
       "name": "TikTok",
       "category": "Видео и медиа",
       "icon": "tiktok",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "analytics.tiktok.com",
         "bytedapm.com",
@@ -616,12 +622,7 @@
         "roovza.launches.appsflyersdk.com",
         "roovza.skadsdk.appsflyersdk.com"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/tiktok",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -629,6 +630,11 @@
       "name": "Instagram",
       "category": "Видео и медиа",
       "icon": "instagram",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "achat-followers-instagram.com",
         "acheter-followers-instagram.com",
@@ -706,12 +712,7 @@
         "wwwinstagram.com"
       ],
       "exactDomains": [],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/instagram",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -719,6 +720,11 @@
       "name": "Spotify",
       "category": "Видео и медиа",
       "icon": "spotify",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "byspotify.com",
         "lifeatspotify.com",
@@ -751,12 +757,7 @@
         "spotify.map.fastly.net",
         "spotify.map.fastlylb.net"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/spotify",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -764,6 +765,11 @@
       "name": "X (Twitter)",
       "category": "Другие",
       "icon": "twitter",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "ads-twitter.com",
         "cms-twdigitalassets.com",
@@ -791,12 +797,7 @@
         "x.com"
       ],
       "exactDomains": [],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/twitter",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -804,6 +805,11 @@
       "name": "Reddit",
       "category": "Другие",
       "icon": "reddit",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "redd.it",
         "reddit.app.link",
@@ -819,12 +825,7 @@
         "redditstatus.com"
       ],
       "exactDomains": [],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/reddit",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -832,6 +833,11 @@
       "name": "GitHub",
       "category": "Другие",
       "icon": "github",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "atom.io",
         "collector.github.com",
@@ -900,12 +906,7 @@
         "productionresultssa8.blob.core.windows.net",
         "productionresultssa9.blob.core.windows.net"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/github",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     },
     {
@@ -913,6 +914,11 @@
       "name": "Steam",
       "category": "Другие",
       "icon": "steam",
+      "exclusions": [],
+      "platforms": [
+        "ios"
+      ],
+      "verifiedAt": "2026-10-08",
       "domains": [
         "client-update.queniuqe.com",
         "csgo.com.cn",
@@ -977,13 +983,9 @@
         "steamvideo-a.akamaihd.net",
         "xz.pphimalayanrt.com"
       ],
-      "exclusions": [],
-      "platforms": [
-        "ios"
-      ],
       "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/88305e9df237d81de4d879db17ba535a54be5e14/data/steam",
-      "verifiedAt": "2026-10-08",
       "omittedRules": 0
     }
-  ]
+  ],
+  "updatedAt": "2026-10-15T19:40:38Z"
 }
