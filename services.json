@@ -1,5 +1,5 @@
 {
-  "revision": "2b7ae3222f79e58e323a6b1c30c6618821068963",
+  "revision": "777d056afe68b2643c1ef15f80e7bde3dfa149b1",
   "source": "https://github.com/v2fly/domain-list-community",
   "services": [
     {
@@ -40,7 +40,7 @@
         "openaicomproductionae4b.blob.core.windows.net",
         "production-openaicom-storage.azureedge.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/openai",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/openai",
       "omittedRules": 1
     },
     {
@@ -106,7 +106,7 @@
         "notebooklm.googleapis.com",
         "webchannel-alkalimakersuite-pa.clients6.google.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/google-gemini",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/google-gemini",
       "omittedRules": 0
     },
     {
@@ -144,7 +144,7 @@
         "o1158394.ingest.us.sentry.io",
         "servd-anthropic-website.b-cdn.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/anthropic",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/anthropic",
       "omittedRules": 0
     },
     {
@@ -166,7 +166,7 @@
         "ppl-ai-file-upload.s3.amazonaws.com",
         "pplx-res.cloudinary.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/perplexity",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/perplexity",
       "omittedRules": 0
     },
     {
@@ -187,7 +187,7 @@
         "x.ai"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/xai",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/xai",
       "omittedRules": 0
     },
     {
@@ -205,7 +205,7 @@
         "deepseeksvc.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/deepseek",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/deepseek",
       "omittedRules": 0
     },
     {
@@ -250,7 +250,7 @@
         "discord-attachments-uploads-prd.storage.googleapis.com",
         "hammerandchisel.ssl.zendesk.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/discord",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/discord",
       "omittedRules": 0
     },
     {
@@ -287,7 +287,7 @@
         "usercontent.dev"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/telegram",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/telegram",
       "omittedRules": 0
     },
     {
@@ -314,7 +314,7 @@
         "whatsappbrand.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/whatsapp",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/whatsapp",
       "omittedRules": 0
     },
     {
@@ -338,7 +338,7 @@
         "whispersystems.org"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/signal",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/signal",
       "omittedRules": 0
     },
     {
@@ -533,7 +533,7 @@
       "exactDomains": [
         "yt3.googleusercontent.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/youtube",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/youtube",
       "omittedRules": 0
     },
     {
@@ -585,7 +585,7 @@
         "ds0h3roq6wcgc.cloudfront.net",
         "dykkng5hnh52u.cloudfront.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/twitch",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/twitch",
       "omittedRules": 0
     },
     {
@@ -642,7 +642,7 @@
         "roovza.launches.appsflyersdk.com",
         "roovza.skadsdk.appsflyersdk.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/tiktok",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/tiktok",
       "omittedRules": 0
     },
     {
@@ -732,7 +732,7 @@
         "wwwinstagram.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/instagram",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/instagram",
       "omittedRules": 0
     },
     {
@@ -777,7 +777,7 @@
         "spotify.map.fastly.net",
         "spotify.map.fastlylb.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/spotify",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/spotify",
       "omittedRules": 0
     },
     {
@@ -817,7 +817,7 @@
         "x.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/twitter",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/twitter",
       "omittedRules": 0
     },
     {
@@ -845,7 +845,7 @@
         "redditstatus.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/reddit",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/reddit",
       "omittedRules": 0
     },
     {
@@ -928,7 +928,7 @@
         "productionresultssa8.blob.core.windows.net",
         "productionresultssa9.blob.core.windows.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/github",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/github",
       "omittedRules": 0
     },
     {
@@ -1006,9 +1006,9 @@
         "steamvideo-a.akamaihd.net",
         "xz.pphimalayanrt.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/2b7ae3222f79e58e323a6b1c30c6618821068963/data/steam",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/777d056afe68b2643c1ef15f80e7bde3dfa149b1/data/steam",
       "omittedRules": 0
     }
   ],
-  "updatedAt": "2026-11-10T11:19:07Z"
+  "updatedAt": "2026-11-13T11:07:12Z"
 }
