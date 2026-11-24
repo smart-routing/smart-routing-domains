@@ -1,5 +1,5 @@
 {
-  "revision": "dff1013c77ee24daaffb2168b5b425894a9f87bc",
+  "revision": "98c43cad27fa8f02043858763709fe4a95432ffb",
   "source": "https://github.com/v2fly/domain-list-community",
   "services": [
     {
@@ -40,7 +40,7 @@
         "openaicomproductionae4b.blob.core.windows.net",
         "production-openaicom-storage.azureedge.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/openai",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/openai",
       "omittedRules": 1
     },
     {
@@ -70,6 +70,7 @@
         "gemini.google",
         "gemini.google.com",
         "gemini.gstatic.com",
+        "gemma.ai",
         "generativeai.google",
         "generativelanguage.googleapis.com",
         "jules.google",
@@ -106,7 +107,7 @@
         "notebooklm.googleapis.com",
         "webchannel-alkalimakersuite-pa.clients6.google.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/google-gemini",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/google-gemini",
       "omittedRules": 0
     },
     {
@@ -144,7 +145,7 @@
         "o1158394.ingest.us.sentry.io",
         "servd-anthropic-website.b-cdn.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/anthropic",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/anthropic",
       "omittedRules": 0
     },
     {
@@ -166,7 +167,7 @@
         "ppl-ai-file-upload.s3.amazonaws.com",
         "pplx-res.cloudinary.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/perplexity",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/perplexity",
       "omittedRules": 0
     },
     {
@@ -187,7 +188,7 @@
         "x.ai"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/xai",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/xai",
       "omittedRules": 0
     },
     {
@@ -205,7 +206,7 @@
         "deepseeksvc.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/deepseek",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/deepseek",
       "omittedRules": 0
     },
     {
@@ -250,7 +251,7 @@
         "discord-attachments-uploads-prd.storage.googleapis.com",
         "hammerandchisel.ssl.zendesk.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/discord",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/discord",
       "omittedRules": 0
     },
     {
@@ -287,7 +288,7 @@
         "usercontent.dev"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/telegram",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/telegram",
       "omittedRules": 0
     },
     {
@@ -314,7 +315,7 @@
         "whatsappbrand.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/whatsapp",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/whatsapp",
       "omittedRules": 0
     },
     {
@@ -338,7 +339,7 @@
         "whispersystems.org"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/signal",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/signal",
       "omittedRules": 0
     },
     {
@@ -533,7 +534,7 @@
       "exactDomains": [
         "yt3.googleusercontent.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/youtube",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/youtube",
       "omittedRules": 0
     },
     {
@@ -585,7 +586,7 @@
         "ds0h3roq6wcgc.cloudfront.net",
         "dykkng5hnh52u.cloudfront.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/twitch",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/twitch",
       "omittedRules": 0
     },
     {
@@ -642,7 +643,7 @@
         "roovza.launches.appsflyersdk.com",
         "roovza.skadsdk.appsflyersdk.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/tiktok",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/tiktok",
       "omittedRules": 0
     },
     {
@@ -732,7 +733,7 @@
         "wwwinstagram.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/instagram",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/instagram",
       "omittedRules": 0
     },
     {
@@ -777,7 +778,7 @@
         "spotify.map.fastly.net",
         "spotify.map.fastlylb.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/spotify",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/spotify",
       "omittedRules": 0
     },
     {
@@ -817,7 +818,7 @@
         "x.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/twitter",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/twitter",
       "omittedRules": 0
     },
     {
@@ -845,7 +846,7 @@
         "redditstatus.com"
       ],
       "exactDomains": [],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/reddit",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/reddit",
       "omittedRules": 0
     },
     {
@@ -928,7 +929,7 @@
         "productionresultssa8.blob.core.windows.net",
         "productionresultssa9.blob.core.windows.net"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/github",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/github",
       "omittedRules": 0
     },
     {
@@ -1006,9 +1007,9 @@
         "steamvideo-a.akamaihd.net",
         "xz.pphimalayanrt.com"
       ],
-      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/dff1013c77ee24daaffb2168b5b425894a9f87bc/data/steam",
+      "source": "https://raw.githubusercontent.com/v2fly/domain-list-community/98c43cad27fa8f02043858763709fe4a95432ffb/data/steam",
       "omittedRules": 0
     }
   ],
-  "updatedAt": "2026-11-23T12:57:34Z"
+  "updatedAt": "2026-11-24T13:51:14Z"
 }
